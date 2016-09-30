@@ -54,7 +54,7 @@
         
                   
                 <a  href="{{ action('HomeController@index') }}">Login</a> &nbsp&nbsp
-                <a  href="http://efs-fall2016.herokuapp.com/register">Register</a> &nbsp&nbsp
+                <a  href="http://efs-fall16.herokuapp.com/register">Register</a> &nbsp&nbsp
              
                
 
