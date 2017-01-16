@@ -16,4 +16,6 @@ class ExampleTest extends TestCase
         $this->visit('/')
              ->see('Laravel');
     }
+
+    /* This comment is a test of the Github merge function.  Ignore this comment.*/
 }
