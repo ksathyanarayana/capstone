@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>kavya's second page</title>
+	<title>kavya's page</title>
 </head>
 <body>
 <ul>
@@ -12,7 +12,6 @@
 		new student email
 	</li>
 </ul>
-<p> My paragraph </p>
 
 </body>
 </html>
