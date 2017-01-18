@@ -6,7 +6,7 @@
 <body>
 <ul>
 	<li>
-		new name
+		new student name
 	</li>
 	<li>
 		new email
