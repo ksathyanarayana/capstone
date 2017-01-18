@@ -12,6 +12,7 @@
 		new student email
 	</li>
 </ul>
+<p> My paragraph </p>
 
 <p> New Paragraph </p>
 
