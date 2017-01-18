@@ -6,7 +6,7 @@
 <body>
 <ul>
 	<li>
-		new name
+		new member name
 	</li>
 	<li>
 		new email
