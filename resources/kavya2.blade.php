@@ -5,15 +5,6 @@
 </head>
 <body>
 <ul>
-	<li>
-		new student name
-	</li>
-	
-</ul>
-<ul>
-	<li>
-		new student email
-	</li>
 	
 </ul>
 
