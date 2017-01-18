@@ -9,7 +9,7 @@
 		new student name
 	</li>
 	<li>
-		new member email
+		new student email
 	</li>
 </ul>
 
