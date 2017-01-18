@@ -4,6 +4,7 @@
 	<title>kavya's page</title>
 </head>
 <body>
+
 <ul>
 	<li>
 		student name
@@ -12,8 +13,8 @@
 		student email
 	</li>
 </ul>
-
-<p> New Paragraph </p>
+<!--removed a paragragh new paragraph and the comments-->
+<p> My paragraph </p>
 
 </body>
 </html>
