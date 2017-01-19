@@ -45,7 +45,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div align="center"><H1><FONT SIZE="20" FACE="Arvo" COLOR=brown>EAGLE FINANCIAL SERVICES </FONT></H1></div>
+                <div align="center"><H1><FONT SIZE="20" FACE="Arvo" COLOR=purple>What should we name our team? </FONT></H1></div>
                 <div align="center"><h3><FONT style="font-style: italic;" FACE="Dancing+Script" COLOR=brown> Your success is our moto! </FONT></h3></div>
                 
  <div id="title">
@@ -63,7 +63,7 @@
 </div>
 
 
-<div class=""><img src="http://www.hd-wallpapersdownload.com/script/new-wallpaper/free-desktop-eagles-hd-photos-download.jpg" width="70%" height="560"></div>
+<div class=""><img src="oie.png"></div>
                 
             </div>
         </div>
