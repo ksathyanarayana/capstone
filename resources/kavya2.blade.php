@@ -13,11 +13,8 @@
 		student email
 	</li>
 </ul>
-
-
+<!--removed a paragragh new paragraph and the comments-->
 <p> My paragraph </p>
-
-<p> New Paragraph </p>
 
 </body>
 </html>
