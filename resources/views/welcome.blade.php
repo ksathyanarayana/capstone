@@ -2,7 +2,7 @@
 <html>
     <head>
     
-        <title >Eagle Financial Services</title>
+        <title >(Test for Capstone) We need a team name!</title>
 
        <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
        <link href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
