@@ -8,7 +8,7 @@
 
 <h1>Trial 1</h1>
 
-<p>Still stuck</p>
+<p>Made changes</p>
 <p>New List</p>
 <ul> 
 <li>
