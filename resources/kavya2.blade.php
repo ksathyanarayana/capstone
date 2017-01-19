@@ -7,7 +7,7 @@
 
 <ul>
 	<li>
-		anson
+		Anson
 	</li>
 	<li>
 		ajdsouza@unomaha.edu
