@@ -7,10 +7,10 @@
 
 <ul>
 	<li>
-		student name
+		Kavya
 	</li>
 	<li>
-		student email
+		ksathyanarayana@unomaha.edu
 	</li>
 </ul>
 
